@@ -1,0 +1,49 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+    color:rgba(54, 57, 88, 1);
+}
+.bg-color{
+    background-color: rgba(255, 255, 244, 1);
+}
+.nav{
+    padding-left: 300px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.col-md-7 h1{
+    font-size: 50px;
+}
+.highlighted-text{
+    color: rgb(118, 194, 126);
+}
+.header-text{
+    padding-top: 50px;
+}
+.buy-button{
+    background-color: rgba(42, 30, 89, 1);
+    font-size: 12px;
+    color: #fff;
+    padding: 5px 10px;
+    border: 2px solid  rgba(42, 30, 89, 1);
+    border-radius: 5px;
+}
+.card-image{
+    border: 1px solid rgba(241, 241, 241, 1);
+    background-color:rgba(241, 241, 241, 1);
+    border-radius: 10px;
+}
+.card-box{
+    box-shadow: 0px 3px 5px gray;
+    border: none;
+}
+.card-h5{
+    color:rgba(54, 57, 88, 1);
+    font-weight: bold;
+}
+.box-footer{
+    background-color: #fff;
+    border: none;
+}
+.about-img{
+    width: 50%;
+}
